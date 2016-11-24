@@ -1,3 +1,10 @@
+laplock-bin
+===========
+This is a fork from laplock. It adds the following:
+
+* Upgrade to Visual Studio 2015 libraries
+* bin files for Win32 platform, Debug and Release targets. (Compiled on Windows 10 Enterprise, VS 2015)
+
 laplock
 =======
 
